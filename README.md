@@ -1,3 +1,3 @@
 ## ScrollThindicator
 Thin Scrollbar!  
-![image](README.png)
+![image](https://github.com/r-plus/ScrollThindicator/blob/master/README.png)
