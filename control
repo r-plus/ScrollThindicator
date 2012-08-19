@@ -1,0 +1,9 @@
+Package: jp.r-plus.scrollthindicator
+Name: ScrollThindicator
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Thin Scrollbar
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
