@@ -1,9 +1,12 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scrollthindicatorDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scrollthindicatorDp
 Package: jp.r-plus.scrollthindicator
 Name: ScrollThindicator
 Depends: mobilesubstrate
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
-Description: Thin Scrollbar
-Maintainer: r_plus
-Author: r_plus
+Description: a thinner scrollbar indicator
+Author: r_plus <anasthasia.r+thin@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Section: Tweaks
+dev: rplus
