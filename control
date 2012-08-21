@@ -2,7 +2,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scrollthind
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scrollthindicatorDp
 Package: jp.r-plus.scrollthindicator
 Name: ScrollThindicator
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 5.0)
 Version: 0.2
 Architecture: iphoneos-arm
 Description: a thinner scrollbar indicator
